@@ -1,9 +1,1 @@
-[
-    {
-        "id": 1,
-        "description": "Buy groceries",
-        "status": "todo",
-        "created_at": "1742357428625",
-        "updated_at": "1742357428625"
-    }
-]
+[{"id":1,"description":"Buy groceries and cook dinner","status":"done","created_at":"1742382546631","updated_at":"1742382571888"},{"id":4,"description":"Go shopping","status":"todo","created_at":"1742382682771","updated_at":"1742382682771"},{"id":3,"description":"Go for a run","status":"todo","created_at":"1742382669000","updated_at":"1742382669000"}]
